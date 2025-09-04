@@ -24,6 +24,7 @@ class AbsensiApiController extends Controller
             'data' => new AbsensiCollection($data)
         ]);
     }
+    // yaya
 
     public function adminIndex()
     {
